@@ -8,4 +8,6 @@ The github blocks platform is in technical preview - it allows you to extend the
 
 > It could be as simple as a custom renderer for files or folders in your repository, and it can be as flexible as a full interface for editing content.
 
+## Blocks I'd like to see
+
 - [Modify wiki-style links in Markdown](markdown-wiki-links.md)
